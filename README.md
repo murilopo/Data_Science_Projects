@@ -7,9 +7,11 @@
 # Murilo Augusto Pó
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
-🔹Bacharel em Engenharia Mecânica pelo Instituto Mauá de Tecnologia - IMT - SP >
-🔹Minor em Gestão de Negócios pelo Instituto Mauá de Tecnologia - IMT - SP >
-🔹Cursando Pós Graduação em Engenharia de Manutenção Aeronáutica pela PUC MINAS.>
+🔹Bacharel em Engenharia Mecânica pelo Instituto Mauá de Tecnologia - IMT - SP
+
+🔹Minor em Gestão de Negócios pelo Instituto Mauá de Tecnologia - IMT - SP
+
+🔹Cursando Pós Graduação em Engenharia de Manutenção Aeronáutica pela PUC MINAS
 
 ▫️Experiencia na análise de procedimentos de manutenção e utilização das ferramentas de gerenciamento de processos  SCRUM e 4DX - 4 Disciplinas da Execução -. Franklin Covey.
 
