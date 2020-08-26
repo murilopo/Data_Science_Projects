@@ -7,27 +7,27 @@
 # Murilo Augusto Pó
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+🔹Bacharel em Engenharia Mecânica pelo Instituto Mauá de Tecnologia - IMT - SP
+🔹Minor em Gestão de Negócios pelo Instituto Mauá de Tecnologia - IMT - SP
+🔹Cursando Pós Graduação em Engenharia de Manutenção Aeronáutica pela PUC MINAS.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+▫️Experiencia na análise de procedimentos de manutenção e utilização das ferramentas de gerenciamento de processos  SCRUM e 4DX - 4 Disciplinas da Execução -. Franklin Covey.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+▫️Conhecimento na linguagem de programação SQL, VBA e Python para modelagem de banco de Dados SQL, criação algoritmos estatísticos e gerenciamento de KPI. 
+
+▫️Atualmente buscando conhecimento em Big Data e Machine Learning para aplicar uma cultura "Data Driven" na Aviação.
+
+
+**Background in:** Python, Machine Learning .
 
 **Links:**
 * [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+* [LinkedIn](https://www.linkedin.com/in/muriloaugustopo/)
 * [Medium](https://www.medium.com)
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os tutoriais publicados:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
-
 ---
