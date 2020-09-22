@@ -5,7 +5,7 @@
 </p>
 
 # Murilo Augusto Pó
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>* Engenheiro Mecanico & Data Science
 
 🔹Bacharel em Engenharia Mecânica pelo Instituto Mauá de Tecnologia - IMT - SP
 
