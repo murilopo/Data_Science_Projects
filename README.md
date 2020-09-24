@@ -25,7 +25,7 @@
 
 
 ## Projetos:
-Veja os tutoriais publicados:
+Transformando Tabela PDF em Dataset:**https://github.com/murilopo/Data_Science_Projects/edit/master/Transformando_Tabela_PDF_em_Dataset.ipynb**
 
 ## Publicações
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
