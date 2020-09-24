@@ -25,7 +25,7 @@
 
 
 ## Projetos:
-* **Transformando Tabela PDF em Dataset:** encurtador.com.br/oUW58.
+* **Transformando Tabela PDF em Dataset:** https://bit.ly/3mXEbkz
 
 ## Publicações
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
