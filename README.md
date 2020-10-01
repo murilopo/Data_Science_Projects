@@ -26,6 +26,6 @@
 
 ## Projetos:
 * **Transformando Tabela PDF em Dataset:** https://bit.ly/3mXEbkz
-* **Analise Setembor Amarelo: Analise Brasil x Mundo:**  https://bit.ly/2GupVP7
+* **Setembro Amarelo - Análise exploratória dos dados 1985–2015:**  https://bit.ly/2GupVP7
 
 ---
