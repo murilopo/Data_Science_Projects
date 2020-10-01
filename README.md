@@ -26,7 +26,6 @@
 
 ## Projetos:
 * **Transformando Tabela PDF em Dataset:** https://bit.ly/3mXEbkz
+* ** Analise Setembor Amarelo:**  https://bit.ly/2GupVP7
 
-## Publicações
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 ---
