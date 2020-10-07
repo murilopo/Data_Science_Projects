@@ -27,7 +27,7 @@
 ## Projetos:
 * **Transformando Tabela PDF em Dataset:** https://bit.ly/3mXEbkz
 * **Setembro Amarelo - Análise exploratória dos dados 1985–2015:**  https://bit.ly/2Sm9w1U
-* **Detecção de Fraudes em Cartões de Créditos:** https://bit.ly/2HYzxCA
+* **Detecção de Fraudes em Cartões de Créditos:** https://bityli.com/ZHAYj
 
 
 
