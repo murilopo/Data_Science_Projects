@@ -27,7 +27,8 @@
 ## Projetos:
 * **Setembro Amarelo - Análise exploratória dos dados 1985–2015:**  https://bit.ly/2Sm9w1U
 * **Detecção de Fraudes em Cartões de Créditos:** https://bityli.com/ZHAYj
-* **Machine Learning para a Detecção de Câncer de Mama:**   https://bityli.com/t93OM                                      
+* **Machine Learning para a Detecção de Câncer de Mama:**   https://bityli.com/t93OM 
+* **Como Classificar renda de salários nos EUA com Machine Learning:** https://bit.ly/37A7J25
 
 ## Trabalando com Python 
 * **Transformando Tabela PDF em Dataset em Python:** https://bit.ly/3mXEbkz
