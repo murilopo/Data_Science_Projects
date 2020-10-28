@@ -29,6 +29,7 @@
 * **Detecção de Fraudes em Cartões de Créditos:** https://bityli.com/ZHAYj
 * **Machine Learning para a Detecção de Câncer de Mama:**   https://bityli.com/t93OM 
 * **Como Classificar renda de salários nos EUA com Machine Learning:** https://bit.ly/37A7J25
+* **WEB Scrapping: Programa para seleção de candidatos para Recusos Humanos:** https://bit.ly/3oJ3qIf
 
 ## Trabalando com Python 
 * **Transformando Tabela PDF em Dataset em Python:** https://bit.ly/3mXEbkz
