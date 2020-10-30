@@ -44,5 +44,5 @@ Notebook
 ## Trabalando com Python 
 * **Transformando Tabela PDF em Dataset em Python:** https://bit.ly/3mXEbkz
 * **Manipulando banco de Dados Excel. Dataset Vendas da Amazon:** https://bit.ly/31AAOqH
-* **Limpeza de dados, outliers e valores ausentes:**  https://bit.ly/3mljjCB
+
 
