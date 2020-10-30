@@ -8,16 +8,24 @@
 <sub>* Engenheiro Mecanico & Data Science
 
 🔹Bacharel em Engenharia Mecânica pelo Instituto Mauá de Tecnologia - IMT - SP
-
 🔹Minor em Gestão de Negócios pelo Instituto Mauá de Tecnologia - IMT - SP
+🔹Cursando Pós Graduação em Engenharia de Manutenção Aeronáutica pela PUC MINAS.
 
-🔹Cursando Pós Graduação em Engenharia de Manutenção Aeronáutica pela PUC MINAS
+▫️Engenheiro com atuação em Planning. Histórico profissional em PCM - Planejamento central de Manutenção | PCP - Planejamento de Controle e Produção.
 
-▫️Experiencia na análise de procedimentos de manutenção e utilização das ferramentas de gerenciamento de processos  SCRUM e 4DX - 4 Disciplinas da Execução -. Franklin Covey.
+▫️ Conhecimento e vivência em gestão de projetos ágeis com SCRUM e 4DX - 4 Disciplinas da Execução -. Franklin Covey.
 
-▫️Conhecimento na linguagem de programação SQL, VBA e Python para modelagem de banco de Dados SQL, criação algoritmos estatísticos e gerenciamento de KPI. 
+▫️Conhecimento na análise técnica em 4 divisões da ATA 100. Motores, Sistemas, Aviônica e Cabine.
 
-**Background in:** Python, Machine Learning .
+▫️Conhecimento na linguagem de programação SQL e Python para modelagem de banco de Dados SQL, criação algoritmos estatísticos e gerenciamento de KPI.
+
+Possuo os seguintes conhecimentos em Python.
+
+* Ferramentas de desenvolvimento: Pycharm, Google Coolab, Jupyter
+Notebook
+* Bibliotecas mais utilizadas: Numpy Pandas ,PandasProfilling, Matplotlib, Scikit-Learn e Pycharm.
+* WebScrapping : Utilizo as bibliotecas Scappy e Selenium para aquisição de dados em páginas da Web
+* Visualização de dados: Power BI e Data Studio
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/muriloaugustopo/)
