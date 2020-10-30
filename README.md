@@ -8,7 +8,9 @@
 <sub>* Engenheiro Mecanico & Data Science
 
 🔹Bacharel em Engenharia Mecânica pelo Instituto Mauá de Tecnologia - IMT - SP
+
 🔹Minor em Gestão de Negócios pelo Instituto Mauá de Tecnologia - IMT - SP
+
 🔹Cursando Pós Graduação em Engenharia de Manutenção Aeronáutica pela PUC MINAS.
 
 ▫️Engenheiro com atuação em Planning. Histórico profissional em PCM - Planejamento central de Manutenção | PCP - Planejamento de Controle e Produção.
